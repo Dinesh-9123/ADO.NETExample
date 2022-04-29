@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQBWsrJa9p9aqKQ0xviykFTvkT3cpqfSxFGvWDYABdwRdSa9BN3/b5zqK38b1V6ALDVTD1hDMAt05Ce+HNNGJw==",
+  "success": true,
+  "projectFilePath": "D:\\ADO.Net\\ADO.Net\\ADO.Net.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
